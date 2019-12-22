@@ -1,4 +1,8 @@
 # aframe-outline
+v0.0.1
+
+based upon an example by Lee Stemkoski
+
 ____
 
 ![screenshot](https://cdn.glitch.com/4bcf2fe0-a91a-4620-8351-a4c042393de4%2Foutline.png?v=1577048918783)
