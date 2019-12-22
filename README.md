@@ -33,7 +33,7 @@ ____
 ```
 ___
 
-## Use default HTML
+## Use default in HTML
 
 ```
 
