@@ -5,7 +5,7 @@ based upon an [example](https://stemkoski.github.io/Three.js/Outline.html) by [L
 
 ____
 
-![screenshot](https://cdn.glitch.com/4bcf2fe0-a91a-4620-8351-a4c042393de4%2Foutline.png?v=1577048918783)
+![screenshot](https://cdn.glitch.com/4bcf2fe0-a91a-4620-8351-a4c042393de4%2Faframe-outline.gif?v=1577054663540)
 
 ____
 
