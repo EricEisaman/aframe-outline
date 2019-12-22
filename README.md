@@ -1,7 +1,7 @@
 # aframe-outline
 v0.0.1
 
-based upon an example by Lee Stemkoski
+based upon an [example](https://stemkoski.github.io/Three.js/Outline.html) by [Lee Stemkoski](https://github.com/stemkoski).
 
 ____
 
